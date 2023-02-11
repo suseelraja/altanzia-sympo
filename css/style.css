@@ -15482,6 +15482,40 @@ h1, h2, h3, h4, h5, h6, [class^='heading-'] {
 	{
 		font-size: 50px;
 	}
-
+	#design
+	{
+		 position: absolute;
+		 left: 0%;
+		
+	}
 	 
+  }
+  @media only screen and (max-width: 820px){
+	#sec16
+	{
+		font-size: 50px;
+	}
+  }
+  @media only screen and (max-width: 912px){
+	#sec16
+	{
+		font-size: 50px;
+	}
+  }
+    @media only screen and (max-width: 912px){
+	#sec16
+	{
+		font-size: 50px;
+	}
+  }
+
+  #design
+  {
+	   margin-left: 70%;
+	   color: goldenrod;
+  }
+  #tel
+  {
+	text-decoration: none;
+	color: #b2b2c5;
   }
