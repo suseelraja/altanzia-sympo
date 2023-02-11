@@ -63,10 +63,7 @@
  */
 /** @group Base */
 /** @section Reset Styles */
-body
-{
-	background-image: url('images/tech.avif');
-}
+
 a:focus,
 button:focus {
 	outline: none !important;
